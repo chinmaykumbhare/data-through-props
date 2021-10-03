@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/data-through-props/static/css/main.b818418d.chunk.css",
+    "main.js": "/data-through-props/static/js/main.19a51838.chunk.js",
+    "main.js.map": "/data-through-props/static/js/main.19a51838.chunk.js.map",
+    "runtime-main.js": "/data-through-props/static/js/runtime-main.d2ee5c26.js",
+    "runtime-main.js.map": "/data-through-props/static/js/runtime-main.d2ee5c26.js.map",
+    "static/js/2.fd81b107.chunk.js": "/data-through-props/static/js/2.fd81b107.chunk.js",
+    "static/js/2.fd81b107.chunk.js.map": "/data-through-props/static/js/2.fd81b107.chunk.js.map",
+    "static/js/3.290bb233.chunk.js": "/data-through-props/static/js/3.290bb233.chunk.js",
+    "static/js/3.290bb233.chunk.js.map": "/data-through-props/static/js/3.290bb233.chunk.js.map",
+    "index.html": "/data-through-props/index.html",
+    "static/css/main.b818418d.chunk.css.map": "/data-through-props/static/css/main.b818418d.chunk.css.map",
+    "static/js/2.fd81b107.chunk.js.LICENSE.txt": "/data-through-props/static/js/2.fd81b107.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/data-through-props/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2ee5c26.js",
+    "static/js/2.fd81b107.chunk.js",
+    "static/css/main.b818418d.chunk.css",
+    "static/js/main.19a51838.chunk.js"
+  ]
+}
