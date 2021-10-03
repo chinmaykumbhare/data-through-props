@@ -7,7 +7,6 @@ function App() {
   return (
     <div className="App">
       <h1>Employee List</h1>
-      {//data -> props}
       <List data={data}/>
     </div>
   );
